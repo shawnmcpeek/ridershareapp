@@ -18,6 +18,7 @@
 .env.test.local
 .env.production.local
 .env
+**/uberdriver-2941d-firebase-adminsdk-3t5g9-aec0b755d2.json
 
 npm-debug.log*
 yarn-debug.log*
